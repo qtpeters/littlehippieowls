@@ -1,0 +1,28 @@
+{
+  "name": "littlehippyowls",
+  "version": "0.0.1",
+  "description": "Little Hippy Owls Website",
+  "main": "service/index.js",
+  "scripts": {
+    "start": "node service/index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qtpeters/littlehippyowls.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Quinn Peters",
+  "contributors": [
+  ],
+  "license": "MIT"
+}
