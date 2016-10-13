@@ -1,4 +1,9 @@
-body {
-   background-color: lightblue;
-   color: yellow;
+header {
+	position: fixed;
+	height: 150px;
+	width: auto;
+	background-color: rgba(92, 96, 104, 60); 
+	font-family: courier;
+	font-style: small-caps;
+	font-size: 25px;
 }
